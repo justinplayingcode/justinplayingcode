@@ -40,12 +40,11 @@
 <img align="left" alt="Jira" width="30px" height="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 <br />
 <br />
-<hr />
+<br />
 
 ### 📊 Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justinplayingcode&theme=dark&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&background=281C56&border=EBEBEB&ring=85649E&dates=EAEB89&stroke=7DEBCF&sideLabels=EBB5EB&fire=EB9124&currStreakLabel=AEEBC8&currStreakNum=EBE5DB)](https://git.io/streak-stats)
 <br />
-<hr />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinplayingcode&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br />
