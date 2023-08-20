@@ -39,6 +39,8 @@
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" />
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 <br />
+<br />
+<br />
 <hr />
 
 ### 📊 Stats
