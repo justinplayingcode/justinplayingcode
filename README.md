@@ -1,4 +1,4 @@
-### Hi there 👋
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Justin&theme=dark&border_radius=8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **justinplayingcode/justinplayingcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
