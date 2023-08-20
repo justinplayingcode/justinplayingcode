@@ -40,6 +40,7 @@
 <img align="left" alt="Jira" width="30px" height="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 <br />
 <br />
+<br />
 <hr />
 
 ### 📊 Stats
