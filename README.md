@@ -2,14 +2,17 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZqMWRwcW0yM2V6M2M3OWs5dW5oMHFwcDYzOHY4eTF2OXZ6dTFuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="400"/>
 </div>
 
-# Justin Pham 
+<h1>
+  Hi there, I'm Justin Pham 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 - 🙋‍♂️ I'm a young developer from Hanoi, Vietnam
 - 👨‍💻 I’m currently working on Avepoint Vietnam Ltc
 - 🧑‍🎓 I graduated from Hanoi University Of Science And Technology
 - 💬 Ask me about anything...
 - 📫 How to reach me: <a href = "mailto:phamduythang00@gmail.com">@justinpham</a>
-- ⚡ Fun fact: My 👀 look like 🐼
+- ⚡ Fun fact: My 👀 look like 🐼 😂
 
 ### 🧰 Languages and Tools
 
@@ -33,3 +36,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justinplayingcode&theme=dark&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&background=281C56&border=EBEBEB&ring=85649E&dates=EAEB89&stroke=7DEBCF&sideLabels=EBB5EB&fire=EB9124&currStreakLabel=AEEBC8&currStreakNum=EBE5DB)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinplayingcode&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div id="footer" align="center">
+  <img src="https://media2.giphy.com/media/Up6k8FZY2fv0EDAyBf/giphy.gif?cid=ecf05e47jetl5x5v9ztlor3oidmq1gd3fi7m42xat04xbct5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
+</div>
