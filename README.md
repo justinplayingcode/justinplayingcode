@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZqMWRwcW0yM2V6M2M3OWs5dW5oMHFwcDYzOHY4eTF2OXZ6dTFuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZqMWRwcW0yM2V6M2M3OWs5dW5oMHFwcDYzOHY4eTF2OXZ6dTFuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="1000"/>
 </div>
 
 # Justin Pham 
