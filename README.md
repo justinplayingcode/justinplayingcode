@@ -14,6 +14,8 @@
 - 📫 How to reach me: <a href = "mailto:phamduythang00@gmail.com">@justinpham</a>
 - ⚡ Fun fact: My 👀 look like 🐼 😂
 
+<hr/>
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -34,13 +36,19 @@
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="SASS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" />
+<img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 <br />
-
+<hr />
 
 ### 📊 Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justinplayingcode&theme=dark&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&background=281C56&border=EBEBEB&ring=85649E&dates=EAEB89&stroke=7DEBCF&sideLabels=EBB5EB&fire=EB9124&currStreakLabel=AEEBC8&currStreakNum=EBE5DB)](https://git.io/streak-stats)
+<br />
+<hr />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinplayingcode&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<hr />
 
 <div id="footer" align="center">
   <img src="https://media2.giphy.com/media/Up6k8FZY2fv0EDAyBf/giphy.gif?cid=ecf05e47jetl5x5v9ztlor3oidmq1gd3fi7m42xat04xbct5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
