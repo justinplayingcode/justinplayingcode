@@ -26,4 +26,4 @@
 
 
 ### 📊 Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Justin&theme=dark&border_radius=8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Justin&theme=dark&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&background=281C56&border=EBEBEB&ring=85649E&dates=EAEB89&stroke=7DEBCF&sideLabels=EBB5EB&fire=EB9124&currStreakLabel=AEEBC8&currStreakNum=EBE5DB)](https://git.io/streak-stats)
