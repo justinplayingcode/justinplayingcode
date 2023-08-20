@@ -1,5 +1,11 @@
-# 👨‍💻 Justin Pham
-Developer
+# Justin Pham 
+
+- 🙋‍♂️ I'm a young developer from Hanoi, Vietnam
+- 👨‍💻 I’m currently working on Avepoint Vietnam Ltc
+- 🧑‍🎓 I graduated from Hanoi University Of Science And Technology
+- 💬 Ask me about anything...
+- 📫 How to reach me: <a href = "mailto:phamduythang00@gmail.com">@justinpham</a>
+- ⚡ Fun fact: My 👀 look like 🐼
 
 ### 🧰 Languages and Tools
 
@@ -21,18 +27,3 @@ Developer
 
 ### 📊 Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Justin&theme=dark&border_radius=8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<!--
-**justinplayingcode/justinplayingcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
