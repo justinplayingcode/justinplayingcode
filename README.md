@@ -12,7 +12,6 @@
 - 🧑‍🎓 I graduated from Hanoi University Of Science And Technology
 - 💬 Ask me about anything...
 - 📫 How to reach me: <a href = "mailto:phamduythang00@gmail.com">@justinpham</a>
-- ⚡ Fun fact: My 👀 look like 🐼 😂
 
 <hr/>
 
