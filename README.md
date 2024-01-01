@@ -41,7 +41,3 @@
 <br />
 <br />
 <hr />
-
-<div id="footer" align="center">
-  <img src="https://media2.giphy.com/media/Up6k8FZY2fv0EDAyBf/giphy.gif?cid=ecf05e47jetl5x5v9ztlor3oidmq1gd3fi7m42xat04xbct5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
-</div>
