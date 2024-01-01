@@ -42,14 +42,6 @@
 <br />
 <hr />
 
-### 📊 Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justinplayingcode&theme=dark&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&background=281C56&border=EBEBEB&ring=85649E&dates=EAEB89&stroke=7DEBCF&sideLabels=EBB5EB&fire=EB9124&currStreakLabel=AEEBC8&currStreakNum=EBE5DB)](https://git.io/streak-stats)
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinplayingcode&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-<hr />
-
 <div id="footer" align="center">
   <img src="https://media2.giphy.com/media/Up6k8FZY2fv0EDAyBf/giphy.gif?cid=ecf05e47jetl5x5v9ztlor3oidmq1gd3fi7m42xat04xbct5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
 </div>
