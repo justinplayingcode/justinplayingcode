@@ -8,7 +8,6 @@
 </h1>
 
 - 🙋‍♂️ I'm a young developer from Hanoi, Vietnam
-- 👨‍💻 I’m currently working on Avepoint Vietnam Ltc
 - 🧑‍🎓 I graduated from Hanoi University Of Science And Technology
 - 💬 Ask me about anything...
 - 📫 How to reach me: <a href = "mailto:phamduythang00@gmail.com">@justinpham</a>
