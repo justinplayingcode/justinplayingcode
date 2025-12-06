@@ -3,14 +3,14 @@
 </div>
 
 <h1>
-  Hi there, I'm Justin
+  Hi there, Thang Zuy
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 - 🙋‍♂️ I'm a young developer from Hanoi, Vietnam
 - 🧑‍🎓 I graduated from Hanoi University Of Science And Technology
 - 💬 Ask me about anything...
-- 📫 How to reach me: <a href = "mailto:phamduythang00@gmail.com">@justinpham</a>
+- 📫 How to reach me: <a href = "mailto:phamduythang00@gmail.com">@thangzuy</a>
 
 <hr/>
 
